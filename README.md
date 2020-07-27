@@ -1,6 +1,5 @@
-#WUMPUS
-
 Explication du programme : 
+
 Nous générons tout d’abord un monde Wumpus de taille n = 10 pour illustrer le
 fonctionnement de notre programme. Ce nombre est modifiable. Tout d’abord,
 un « chronomètre » est lancé avant le parcours. Puis nous lançons notre fonction
@@ -18,7 +17,9 @@ A l’aide de notre fonction afficherMap, nous montrons ensuite la carte qui ava
 parcours. Les coordonnées des Gold ainsi que le chemin final parcouru par notre
 algorithme de parcours sont également affichés après le dévoilement de la carte.
 
+
 Lancement du programme :
+
 Nous compilons notre programme via Spyder. Attention, pensez à bien raccorder
 le bon pathway pour retrouver l’application gophersat-1.1.6. Comme dit
 précédemment, la taille du monde Wumpus à générer est configurable dans la
